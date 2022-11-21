@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/awwa/postgres-github-actions#readme",
   "dependencies": {
-    "node-postgres": "^0.6.2"
+    "node-postgres": "^0.6.2",
+    "pg": "^8.8.0"
   }
 }
